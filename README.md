@@ -1,0 +1,2 @@
+# workflow_dispatch_sample
+workflow_dispatchを使ってみたかった
